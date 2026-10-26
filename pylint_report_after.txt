@@ -1,0 +1,6 @@
+************* Module pet_shelter
+pet_shelter.py:38:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.71/10 (previous run: 3.95/10, +5.77)
+
